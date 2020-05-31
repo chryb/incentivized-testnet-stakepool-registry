@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk1puuuld6kwumaux3zn5p7xcmlfpvj4d4wnxkaq0u55wgj7zmscxfsg8xxaz",
+  "name": "Heimdall",
+  "description": "Cardano Stake Pool based on Heimdall",
+  "ticker": "HEIMDALL",
+  "homepage": "https://biering.ch/staking/heimdall",
+  "pledge_address": "addr1s58nnnah2emn0hs6y2ws8cmr0ay9j24k46v6m5pljj3eztctwrqexgq97uc"
+}
